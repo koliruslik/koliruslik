@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/VLTJgrJm/KPIHeader-Photoroom.png" alt="Igor Sikorsky Kyiv Polytechnic Institute" width="80%"/>
+</p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" />

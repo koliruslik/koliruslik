@@ -1,9 +1,3 @@
-<h3 align="center">A passionate C++ developer and multithreading enthusiast from Ukraine</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=koliruslik&label=Profile%20views&color=0e75b6&style=flat" alt="koliruslik" />
-</p>
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" />
@@ -45,12 +39,12 @@
 
 <p align="left"><strong>C++, C, Cmake, Qt, Unity, raylib, Git, Linux</strong></p>
 
----
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=koliruslik&label=Profile%20views&color=0e75b6&style=flat" alt="koliruslik" />
+</p>
 
----
-
-### 📫 Connect with Me
-<p>
+<p align="right">
   <a href="mailto:koliruslik@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" /></a>
   <a href="https://leetcode.com/koliruslik" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" height="30" width="30" /></a>
 </p>
+

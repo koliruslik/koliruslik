@@ -3,17 +3,26 @@
 </p>
 
 
-<p align="left" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" width="400" style="vertical-align: middle;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koliruslik&theme=github-dark" width="400" style="vertical-align: middle;" />
-</p>
-
-<p align="left" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" width="400" style="vertical-align: middle;" />
-  <a href="https://leetcode.com/koliruslik" target="_blank" style="display: inline-block; height: 100%;">
-    <img src="https://leetcard.jacoblin.cool/koliruslik?theme=dark&font=Fira+Code&ext=contest" width="400" style="vertical-align: middle; height: 100%;" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" width="100%" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=koliruslik&theme=github-dark" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" width="100%" />
+    </td>
+    <td style="border: none;">
+      <a href="https://leetcode.com/koliruslik" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/koliruslik?theme=dark&font=Fira+Code&ext=contest" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="left">

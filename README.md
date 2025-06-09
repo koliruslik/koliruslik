@@ -14,11 +14,11 @@
   </tr>
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" width="100%" />
-    </td>
-    <td style="border: none;">
       <a href="https://leetcode.com/koliruslik" target="_blank">
         <img src="https://leetcard.jacoblin.cool/koliruslik?theme=dark&font=Fira+Code&ext=contest" width="100%" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" width="100%" />
       </a>
     </td>
   </tr>

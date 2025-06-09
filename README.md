@@ -4,7 +4,26 @@
   <img src="https://komarev.com/ghpvc/?username=koliruslik&label=Profile%20views&color=0e75b6&style=flat" alt="koliruslik" />
 </p>
 
-### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koliruslik&theme=github-dark" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+<p align="left">
+  <a href="https://leetcode.com/koliruslik" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/koliruslik?theme=dark&font=Fira+Code&ext=contest" />
+  </a>
+</p>
+
+--- 
+
 <p align="left">
   <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
@@ -27,26 +46,6 @@
 <p align="left"><strong>C++, C, Cmake, Qt, Unity, raylib, Git, Linux</strong></p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koliruslik&theme=github-dark" />
-</p>
-
-### 🔝 Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" />
-</p>
-
----
-
-### 🧠 LeetCode Stats
-<p align="left">
-  <a href="https://leetcode.com/koliruslik" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/koliruslik?theme=dark&font=Fira+Code&ext=contest" />
-  </a>
-</p>
 
 ---
 

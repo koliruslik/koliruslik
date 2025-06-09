@@ -4,15 +4,13 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koliruslik&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koliruslik&theme=github-dark" width="400" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" width="400" />
 </p>
-
----
 
 <p align="left">
   <a href="https://leetcode.com/koliruslik" target="_blank">

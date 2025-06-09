@@ -1,16 +1,57 @@
-## Hi there 👋
+<h3 align="center">A passionate C++ developer and multithreading enthusiast from Ukraine</h3>
 
-<!--
-**koliruslik/koliruslik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=koliruslik&label=Profile%20views&color=0e75b6&style=flat" alt="koliruslik" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools
+<p align="left">
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <!-- C -->
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a>
+  <!-- Cmake -->
+  <a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/1280px-CMake_logo.svg.png" width="40" height="40"/></a>
+  <!-- Qt -->
+  <a href="https://www.qt.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40"/></a>
+  <!-- Unity -->
+  <a href="https://unity.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/></a>
+  <!-- raylib -->
+  <a href="https://www.raylib.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="40" height="40" alt="raylib"></a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
+  <!-- Linux -->
+  <a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><strong>C++, C, Cmake, Qt, Unity, raylib, Git, Linux</strong></p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koliruslik&theme=github-dark" />
+</p>
+
+### 🔝 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koliruslik&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+### 🧠 LeetCode Stats
+<p align="left">
+  <a href="https://leetcode.com/koliruslik" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/koliruslik?theme=dark&font=Fira+Code&ext=contest" />
+  </a>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p>
+  <a href="mailto:koliruslik@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" /></a>
+  <a href="https://leetcode.com/koliruslik" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" height="30" width="30" /></a>
+</p>

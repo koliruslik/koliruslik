@@ -1,10 +1,6 @@
 
 
 
-<p align="center">
-  <img src="https://i.postimg.cc/VLTJgrJm/KPIHeader-Photoroom.png" alt="Igor Sikorsky Kyiv Polytechnic Institute" width="80%"/>
-</p>
-
 
 <table>
   <tr>

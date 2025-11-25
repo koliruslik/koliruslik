@@ -5,14 +5,6 @@
 <table>
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=koliruslik&show_icons=true&theme=github_dark" width="100%" />
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=koliruslik&theme=github-dark" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none;">
       <a href="https://leetcode.com/koliruslik" target="_blank">
         <img src="https://leetcard.jacoblin.cool/koliruslik?theme=dark&font=Fira+Code&ext=contest" width="100%" />
     </td>
